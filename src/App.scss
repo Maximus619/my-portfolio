@@ -1,0 +1,23 @@
+ $primary-color: #ffd700;
+
+ @import 'animate.css';
+
+ @font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./assests/fonts/Helvetica\ Neue.ttf') format('ttf');
+ }
+
+ @font-face {
+   font-family: 'La Belle Aurore';
+   src: url('./assests/fonts/LaBelleAurore-Regular.ttf') format('tff');
+ }
+
+ @font-face {
+   font-family: 'Ubuntu';
+   src: url('./assests/fonts/Ubuntu-Regular.ttf') format('tff');
+ }
+
+ input,
+ textarea {
+   font-family: 'Helvetica Neue';
+ }
