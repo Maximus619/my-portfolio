@@ -33,7 +33,7 @@ const About = () => {
                         I am quietly confident, naturally curious, and perpetually working on improving my skillset.
                     </p>
                     <p>
-                        Some qualties that defines me are: Humble, enthusiastic, leadership, time manager and sports fanatic.
+                        Some qualities that defines me are: Humble, enthusiastic, leadership, time manager and sports fanatic.
                     </p>
                 </div>
 
